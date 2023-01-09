@@ -9,3 +9,9 @@ Write a program that does the following:
 6. Generate an output report with results
 7. Use try/catch logic
 8. Test with all provided .txt files
+
+Test files included:
+- adhd.txt
+- Damage I've done.txt
+- Lose yourself to dance.txt
+- wordy.txt
