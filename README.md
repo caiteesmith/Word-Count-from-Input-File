@@ -15,3 +15,5 @@ Test files included:
 - Damage I've done.txt
 - Lose yourself to dance.txt
 - wordy.txt
+
+![WordCount java](https://user-images.githubusercontent.com/7319667/212352471-ac4fd82b-56a1-4ca1-8889-dc4a9f8ea969.png)
